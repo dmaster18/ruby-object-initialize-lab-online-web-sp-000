@@ -13,6 +13,6 @@ class Dog
   end
 end
 
-sophie = Dog.new("Sophie")
+sophie = Dog.new("Sophie", "")
 puts sophie.name
 puts sophie.breed
