@@ -4,3 +4,4 @@ class Person
   end
 end
 
+john = Person.name()
