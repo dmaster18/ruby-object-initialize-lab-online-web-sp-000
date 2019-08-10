@@ -8,4 +8,4 @@ class Person
 end
 
 john = Person.new("John")
-puts john.
+puts john.name
