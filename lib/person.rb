@@ -5,3 +5,4 @@ class Person
 end
 
 john = Person.name("John")
+puts
