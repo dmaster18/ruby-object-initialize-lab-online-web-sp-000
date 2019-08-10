@@ -3,7 +3,8 @@ class Person
     @name = name
   end
   def name
-    @name = name
+    @name
+  end
 end
 
 john = Person.name("John")
