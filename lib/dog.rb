@@ -14,3 +14,4 @@ class Dog
 end
 
 sophie = Dog.new("Sophie")
+sophie.name
