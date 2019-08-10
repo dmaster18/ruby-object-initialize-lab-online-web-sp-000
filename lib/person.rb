@@ -7,5 +7,5 @@ class Person
   end
 end
 
-john = Person.name("John")
-puts
+john = Person.new("John")
+puts john.
